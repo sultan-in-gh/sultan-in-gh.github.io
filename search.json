@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About Sultan",
+      "description": "Born & raised in Bangladesh. Attained bachelor's and master's degree in forestry with a concentration in remote sensing and GIS. Worked as a research assistant at my institute as well as at a research consultancy firm. Discussing novel ideas on data wrangling (cleaning, analyzing, and visualizing) is what he relishes most. An ideal work environment for me should have a vision and/or commitment towards sustainability. You can connect with me through **mahmudsultan1220@gmail.com**",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n\r\nProminent Soft Skills\r\n\r\nRStudio A go to software for data analysis. R\r\nbeing a programming environment helps replicate multiple similar/\r\nparallel workflows. Found it suitable for spatial data analysis as well.\r\nHave been a user of this platform for 4 years.\r\nArcGIS A fairly standardized software for\r\nspatial data management and analysis. An established name across\r\nacademia and industries. An excellent tool for vector data management\r\nbut not so for remote sensing data. Hooked with this software since the\r\nintroduction with it back in the undergrad years.\r\nQGIS Think of it as a freeware version of\r\nArcGIS. QGIS standalone itself may seem ersatz compared to ArcGIS,\r\nhowever, the package library is rich and being updated on a regular\r\nbasis. I’ve utilized multiple plugins like semi automatic classification\r\nand dzetsaka.\r\nSNAP & ENVI ENVI is older than SNAP in the\r\nrealm of remote sensing data pre-processing and analysis. Some utilize\r\nErdas Imagine for similar tasks. SNAP is equipped with a model builder\r\nand batch processor which may come handy while handling multitude of\r\ndata.\r\nGoogle Earth Engine A javascript based\r\nprogramming platform for remote sensing data analysis. It can directly\r\nconnect to multiple large data repositories like Landsat, Sentinel, and\r\nSRTM within a flick. Used it primarily as a data sorting and collecting\r\nmedium.\r\nMS Excel I don’t have to introduce anyone with\r\nthis one. Excel data formats are universal across multiple platforms,\r\nergo a stellar storage format. For some, it is the last resort for quick\r\nand dirty data analysis but I find it time consuming. I don’t see myself\r\nas an advanced user of this software.\r\nKoBoToolbox An ODK based questionnaire form\r\ndesign and data collection medium. The data collection software is\r\ncalled KoBoCollect, which is available for both android and iOS. The\r\nplatform is mostly popular among different NGOs and international\r\nhumanitarian organizations. I had both designed multiple questionnaire\r\nforms and collected data through this platform.\r\nAdobe Illustrator There are multiple occasions\r\nwhen we have to produce visually appealing banners and posters using the\r\nfigures we’ve produced. Adobe Illustrator is the ubiquitous answer for\r\nsuch cases. Spatial maps can be greatly enhanced by retouching them in\r\nthe Illustrator.\r\nLinks\r\nResearchGate\r\nLinkedIn\r\nGithub \r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-14T16:27:32+06:00"
+    },
+    {
+      "path": "CV.html",
+      "title": "Curriculum Vitae",
+      "author": [
+        {
+          "name": "Sultan Mahmud",
+          "url": "https://linkedin.com/in/sultan-mahmud-sust/"
+        }
+      ],
+      "contents": "\r\n\r\nThe page is under construction\r\n\r\nLinks\r\nResearchGate\r\nLinkedIn\r\nGithub \r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-14T16:27:35+06:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Previous Works",
+      "description": "Some of the salient works demonstrating visualization skills. All the figuers and artworks presented here were created with the help of ArcGIS, RStudio, draw.io, and Adobe Illustrator",
+      "author": [],
+      "contents": "\r\nFigures\r\n\r\nA study area map showing Dhaka north and\r\nsouth city corporations\r\n\r\nStudy area map of Nijhum Dwip National\r\nPark\r\n\r\nMedian confidence intervals for different\r\nmonths shown in boxplot errorbars\r\n\r\nScreeplot showing percent variation\r\nexplained at each principal component\r\n\r\nVariable importance plot using permuted\r\ndecrease in accuracy from six random forest models\r\n\r\nA diagram demostrating the research\r\nflow\r\n\r\nSampling distances and intervals of\r\nsample plots for an undergrowth study\r\n\r\nVisual representation of the\r\nclassification output from six different datasets\r\n\r\nHa ha ! I know it looks awful. It was my\r\nforay into remote sensing data analysis\r\nArtworks\r\n\r\nAn atlas (infographics) prepared for UNDP\r\nBangladesh in Bengali languageCover page designed for a seminar\r\ndocumentA book coverA program banner\r\n\r\nLogo mockup 1\r\n\r\nLogo mockup 2\r\nLinks\r\nResearchGate\r\nLinkedIn\r\nGithub \r\n\r\n\r\n\r\n",
+      "last_modified": "2022-07-14T16:27:37+06:00"
+    }
+  ],
+  "collections": []
+}
